@@ -50,7 +50,7 @@ MNIST: A large dataset of handwritten digits commonly used for training various 
 ### 📂 Project Demo Link:
 - Youtube: 
 - Medium Blog: 
-- Colab:
+- Colab: https://colab.research.google.com/drive/1q4ZK4H-LBkFzbs1nUh-1w-wBL7p_Jubv?usp=sharing
 
 ### 🤝 Social Links
 - LinkedIn: https://www.linkedin.com/in/supriyanagpal

@@ -49,7 +49,7 @@ MNIST: A large dataset of handwritten digits commonly used for training various 
 
 ### 📂 Project Demo Link:
 - Youtube: https://youtu.be/GUK9RGgqgwo
-- Medium Blog: 
+- Medium Blog: https://thesupriyanagpal.medium.com/building-a-handwritten-digit-recognition-system-a-comprehensive-guide-184ce239469f
 - Colab: https://colab.research.google.com/drive/1q4ZK4H-LBkFzbs1nUh-1w-wBL7p_Jubv?usp=sharing
 
 ### 🤝 Social Links

@@ -48,7 +48,7 @@ After training and fine-tuning, the model is deployed for real-time handwritten 
 MNIST: A large dataset of handwritten digits commonly used for training various image processing systems.
 
 ### 📂 Project Demo Link:
-- Youtube: 
+- Youtube: https://youtu.be/GUK9RGgqgwo
 - Medium Blog: 
 - Colab: https://colab.research.google.com/drive/1q4ZK4H-LBkFzbs1nUh-1w-wBL7p_Jubv?usp=sharing
 
